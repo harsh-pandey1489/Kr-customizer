@@ -9,7 +9,7 @@ const FeatureBoxes = () => {
       text: "Don't limit your ideas. KR Customizer gives you more ways\nto create. From basic prints to embroidery and all-over\ndesigns, you can turn your vision into real products. Try\ndifferent styles. Stand out from the crowd. Build something\nthat feels truly yours.",
       imagePosition: "right",
       bgColor: "#FAFAFA",
-      image:"https://res.cloudinary.com/dlzxiy0tl/image/upload/v1773917753/Group_1171282386_fgnenw.png"
+      image:"https://res.cloudinary.com/dlzxiy0tl/image/upload/v1773919865/Group_1171282386_jwgyij.png"
    
       
       
@@ -28,7 +28,7 @@ const FeatureBoxes = () => {
       text: "KR Customizer makes running your store simple. You can connect it to Shopify, Etsy, WooCommerce, BigCommerce and more. All orders sync automatically. No manual work. No mistakes. Whether you sell in Toronto, Ontario, or nearby cities, your customers get fast, reliable shipping. These interfaces simplify corporate management and save time. You can concentrate on design and sales. Whether your customers are across Canada or worldwide, everything stays organized in one place. Setting up your store is quick. Running it is stress-free. With KR Customizer, managing your online shop has never been this simple.",
       imagePosition: "right",
       bgColor: "#FAFAFA",
-       image:"https://res.cloudinary.com/dlzxiy0tl/image/upload/v1773917752/Group_1171282382_blduyc.png"
+       image:"https://res.cloudinary.com/dlzxiy0tl/image/upload/v1773919864/Group_1171282382_agccba.png"
     },
     {
       id: 4,
@@ -36,7 +36,7 @@ const FeatureBoxes = () => {
       text: "Want to start a Canadian print-on-demand business? Not as hard as you think. Our services include shipping, fulfillment, and taxes. Grow your brand with smart pricing and promotion. Focus on product creation. We handle logistics. Selling online has never been easier.",
       imagePosition: "left",
       bgColor: "bg-[#FFF7FF]",
-       image:"https://res.cloudinary.com/dlzxiy0tl/image/upload/v1773917755/Gemini_Generated_Image_sazmn6sazmn6sazm_1_ueqecr.png"
+       image:"https://res.cloudinary.com/dlzxiy0tl/image/upload/v1773919868/Gemini_Generated_Image_sazmn6sazmn6sazm_1_xfv97y.png"
     
     }
   ];
