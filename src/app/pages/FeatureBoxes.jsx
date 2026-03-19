@@ -62,6 +62,7 @@ const FeatureBoxes = () => {
                 <div className={`relative ${index == 2 ? "w-[550px] h-[400px]" : "w-[600px] h-[350px] bg-white"} bg-[#D9D9D9] rounded-xl flex items-center justify-center`}>
                 <Image
                 src={feature.image}
+                alt={feature.title}
                 fill
                 />
                 </div>
