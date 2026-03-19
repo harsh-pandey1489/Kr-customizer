@@ -9,6 +9,7 @@ import PodSection from "./pages/PodSection";
 import PrintOnDemand from "./pages/PrintOnDemand";
 import TrustSection from "./pages/TrustSection";
 import FeatureBoxes from "./pages/FeatureBoxes";
+import HowItWorks from "./pages/HowItWorks";
 
 
 export default function Home() {
